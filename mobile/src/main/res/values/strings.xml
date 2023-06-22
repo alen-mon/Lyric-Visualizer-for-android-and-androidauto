@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LyricVisualizer</string>
+    <string name="enter_the_artist_name">Enter the artist name</string>
+    <string name="enter_the_song">Enter the song</string>
+</resources>
